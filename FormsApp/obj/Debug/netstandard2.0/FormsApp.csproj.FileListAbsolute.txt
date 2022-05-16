@@ -1,0 +1,16 @@
+C:\Users\thuan\source\repos\FormsApp\FormsApp\bin\Debug\netstandard2.0\FormsApp.deps.json
+C:\Users\thuan\source\repos\FormsApp\FormsApp\bin\Debug\netstandard2.0\FormsApp.dll
+C:\Users\thuan\source\repos\FormsApp\FormsApp\bin\Debug\netstandard2.0\FormsApp.pdb
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\FormsApp.csproj.AssemblyReference.cache
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\FormsApp.AssemblyInfoInputs.cache
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\FormsApp.AssemblyInfo.cs
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\FormsApp.dll
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\refint\FormsApp.dll
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\FormsApp.pdb
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\ref\FormsApp.dll
+C:\Users\thuan\source\repos\FormsApp\FormsApp\obj\Debug\netstandard2.0\results.xaml.g.cs

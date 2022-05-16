@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FormsApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Forms App" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Label Text="Please enter your contact information" FontSize="Title" Padding="30,10,30,10"/>
+
+        <Entry x:Name="fname" Placeholder="First name" />
+        <Entry x:Name="lname" Placeholder="Last name" />
+        <Entry x:Name="pnumber" Placeholder="Phone number" />
+        <Entry x:Name="email" Placeholder="Email" />
+        <Entry x:Name="address" Placeholder="Address" />
+        <Button Text="Send" Clicked="PrintInfo"/>
+
+        <Label Text="This is your information" FontSize="Title" Padding="30,10,30,10"/>
+        <Entry x:Name="info1" IsReadOnly="True"/>
+        <Entry x:Name="info2" IsReadOnly="True"/>
+        <Entry x:Name="info3" IsReadOnly="True"/>
+        <Entry x:Name="info4" IsReadOnly="True"/>
+        <Entry x:Name="info5" IsReadOnly="True"/>       
+
+    </StackLayout>
+
+</ContentPage>
